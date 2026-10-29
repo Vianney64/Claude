@@ -1,0 +1,130 @@
+{
+  "titre_produit": "Capsules acide alpha-lipoïque et curcuma – 60 capsules",
+  "handle": "capsules-alpha-lipoique-curcuma",
+  "accroche_hero": "Prends soin de ton confort au quotidien",
+  "sous_accroche": "Un complément alimentaire en capsules pour accompagner le confort des nerfs et du dos.",
+  "puces_benefices": [
+    "Acide alpha-lipoïque et curcuma",
+    "60 capsules au total",
+    "Complément alimentaire en capsules"
+  ],
+  "problemes": [
+    {
+      "titre": "Longues heures",
+      "texte": "Rester assis ou debout longtemps fatigue le dos."
+    },
+    {
+      "titre": "Charges lourdes",
+      "texte": "Porter et se baisser tous les jours demande beaucoup au corps."
+    },
+    {
+      "titre": "Stress",
+      "texte": "Le stress du quotidien pèse aussi sur le corps."
+    },
+    {
+      "titre": "Alimentation",
+      "texte": "Une alimentation pas toujours variée peut manquer d'antioxydants."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Antioxydant",
+      "texte": "L'acide alpha-lipoïque aide à la protection antioxydante."
+    },
+    {
+      "titre": "Curcuma",
+      "texte": "Le curcuma est une épice utilisée pour le confort au quotidien."
+    },
+    {
+      "titre": "Deux actifs",
+      "texte": "Deux ingrédients réunis dans une même capsule."
+    },
+    {
+      "titre": "Simple",
+      "texte": "Des capsules faciles à avaler avec de l'eau."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Acide alpha-lipoïque",
+      "role": "Aide à la protection antioxydante."
+    },
+    {
+      "nom": "Curcuma",
+      "role": "Contribue au confort au quotidien."
+    },
+    {
+      "nom": "Poivre noir (pipérine)",
+      "role": "Aide à accompagner l'absorption du curcuma."
+    }
+  ],
+  "etapes_utilisation": [
+    "Lis la notice avant de commencer.",
+    "Prends la dose indiquée sur l'emballage, pas plus.",
+    "Avale avec un grand verre d'eau.",
+    "Range le produit au sec, hors de portée des enfants."
+  ],
+  "precautions": [
+    "Complément alimentaire : il ne remplace pas une alimentation variée et équilibrée, ni un traitement médical. Ne dépasse pas la dose indiquée sur l'emballage.",
+    "Pas pour les enfants. Si tu es diabétique, si tu prends un traitement (sucre, coagulation), si tu as des calculs biliaires, si tu es enceinte ou si tu allaites, demande l'avis d'un médecin avant.",
+    "Si la douleur est forte ou dure, ou en cas d'engourdissement ou de faiblesse, consulte un médecin. Ce produit ne soigne aucune maladie."
+  ],
+  "comparaison": [
+    {
+      "critere": "Actifs",
+      "produit": "Acide alpha-lipoïque et curcuma ensemble",
+      "alternative": "Un seul actif par produit"
+    },
+    {
+      "critere": "Forme",
+      "produit": "Capsules faciles à avaler",
+      "alternative": "Poudre de curcuma à cuisiner"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce un médicament contre la douleur ?",
+      "reponse": "Non. C'est un complément alimentaire, il ne soigne aucune maladie. Si tu as une douleur, parles-en à un médecin."
+    }
+  ],
+  "texte_final": {
+    "titre": "Un soutien pour ton confort",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Capsules acide alpha-lipoïque et curcuma, 60 capsules. Complément alimentaire. Livraison gratuite au Bénin, paiement à la livraison."
+}

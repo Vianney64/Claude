@@ -1,0 +1,134 @@
+{
+  "titre_produit": "Thé aux plantes vitalité",
+  "handle": "the-plantes-vitalite",
+  "accroche_hero": "Une tasse de plantes pour ta journée",
+  "sous_accroche": "Un thé aux plantes à boire chaud, pour garder une bonne énergie au quotidien.",
+  "puces_benefices": [
+    "Thé aux plantes à infuser",
+    "Une boisson chaude du quotidien",
+    "Goût réchauffant"
+  ],
+  "problemes": [
+    {
+      "titre": "Journées longues",
+      "texte": "Les journées chargées fatiguent le corps et l'esprit."
+    },
+    {
+      "titre": "Boissons sucrées",
+      "texte": "Les boissons sucrées ne sont pas toujours le meilleur choix."
+    },
+    {
+      "titre": "Pas le temps",
+      "texte": "On n'a pas toujours le temps de préparer des tisanes."
+    },
+    {
+      "titre": "Pause oubliée",
+      "texte": "On s'accorde rarement une vraie pause chaude."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Plantes",
+      "texte": "Un mélange de plantes à infuser pour ta routine."
+    },
+    {
+      "titre": "Goût",
+      "texte": "Une boisson chaude, parfumée et réconfortante."
+    },
+    {
+      "titre": "Pause",
+      "texte": "Un petit rituel pour ralentir dans la journée."
+    },
+    {
+      "titre": "Simple",
+      "texte": "Il suffit d'infuser, comme un thé ordinaire."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Gingembre",
+      "role": "Contribue au bien-être général."
+    },
+    {
+      "nom": "Cannelle",
+      "role": "Aide à apporter une saveur chaude."
+    },
+    {
+      "nom": "Hibiscus",
+      "role": "Aide à apporter une saveur fraîche."
+    },
+    {
+      "nom": "Moringa",
+      "role": "Aide à apporter des nutriments."
+    }
+  ],
+  "etapes_utilisation": [
+    "Mets le thé dans une tasse ou une théière.",
+    "Verse de l'eau chaude.",
+    "Laisse infuser le temps indiqué sur l'emballage.",
+    "Respecte la quantité par jour indiquée sur l'emballage."
+  ],
+  "precautions": [
+    "Boisson aux plantes : elle ne remplace pas une alimentation variée et équilibrée, ni un traitement médical.",
+    "Pas pour les enfants. Demande l'avis d'un médecin avant si tu es enceinte, si tu allaites ou si tu suis un traitement, surtout pour la tension, le sucre ou la coagulation.",
+    "Arrête en cas de malaise ou d'effet gênant. Ce produit ne soigne aucune maladie et ne promet aucun effet sur un organe."
+  ],
+  "comparaison": [
+    {
+      "critere": "Format",
+      "produit": "Thé à infuser, simple et chaud",
+      "alternative": "Boissons sucrées prêtes à boire"
+    },
+    {
+      "critere": "Moment",
+      "produit": "Une pause à toi",
+      "alternative": "Boisson avalée en vitesse"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce un médicament ? Qui ne doit pas en boire ?",
+      "reponse": "Non. C'est une boisson aux plantes, elle ne soigne aucune maladie. Les enfants, les femmes enceintes ou qui allaitent et les personnes sous traitement doivent demander l'avis d'un médecin avant."
+    }
+  ],
+  "texte_final": {
+    "titre": "Une pause chaude pour ta journée",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Thé aux plantes vitalité à infuser. Une boisson chaude pour le quotidien. Livraison gratuite au Bénin, paiement à la livraison."
+}

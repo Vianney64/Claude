@@ -1,0 +1,134 @@
+{
+  "titre_produit": "Spray buccal apaisant à la vitamine E – 30 ml",
+  "handle": "spray-buccal-vitamine-e",
+  "accroche_hero": "Un spray apaisant pour dents et gencives",
+  "sous_accroche": "Un spray buccal de 30 ml à la vitamine E, pour prendre soin de la bouche au quotidien.",
+  "puces_benefices": [
+    "Spray buccal de 30 ml",
+    "Aide à apaiser les gencives",
+    "Contient de la vitamine E"
+  ],
+  "problemes": [
+    {
+      "titre": "En déplacement",
+      "texte": "On n'a pas toujours une brosse à dents sur soi."
+    },
+    {
+      "titre": "Boissons sucrées",
+      "texte": "Les boissons sucrées fatiguent la bouche."
+    },
+    {
+      "titre": "Brossage rapide",
+      "texte": "Quand on est pressé, le brossage est vite expédié."
+    },
+    {
+      "titre": "Gencives sensibles",
+      "texte": "Les gencives peuvent être sensibles au quotidien."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Apaise",
+      "texte": "La vitamine E aide à apaiser les gencives."
+    },
+    {
+      "titre": "Rafraîchit",
+      "texte": "Il aide à rafraîchir la bouche."
+    },
+    {
+      "titre": "Pratique",
+      "texte": "Un spray qui tient dans ta poche."
+    },
+    {
+      "titre": "En plus du brossage",
+      "texte": "Il s'ajoute au brossage, il ne le remplace pas."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Vitamine E",
+      "role": "Aide à apaiser les gencives."
+    },
+    {
+      "nom": "Menthe poivrée",
+      "role": "Contribue à rafraîchir la bouche."
+    },
+    {
+      "nom": "Xylitol",
+      "role": "Aide à apporter un goût doux sans sucre."
+    },
+    {
+      "nom": "Aloe vera",
+      "role": "Contribue à apaiser la bouche."
+    }
+  ],
+  "etapes_utilisation": [
+    "Brosse tes dents comme d'habitude.",
+    "Pulvérise vers les dents et les gencives.",
+    "Respecte le nombre de pulvérisations indiqué sur l'emballage.",
+    "Ne l'avale pas volontairement et range-le hors de portée des enfants."
+  ],
+  "precautions": [
+    "Pas pour les enfants. Ne l'avale pas volontairement. Arrête si la bouche pique, rougit ou gonfle.",
+    "Demande l'avis d'un médecin ou d'un dentiste avant si tu es enceinte, si tu allaites, si tu suis un traitement ou si tu es allergique à un ingrédient.",
+    "Ce produit ne soigne aucune maladie et ne remplace ni le brossage ni le dentiste. En cas de douleur, de gonflement ou de saignement des gencives, consulte un dentiste."
+  ],
+  "comparaison": [
+    {
+      "critere": "Format",
+      "produit": "Spray de 30 ml, facile à emporter",
+      "alternative": "Brosse et dentifrice seulement"
+    },
+    {
+      "critere": "Moment",
+      "produit": "Partout, en un geste",
+      "alternative": "À la maison"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce que ça remplace le brossage ou le dentiste ?",
+      "reponse": "Non. Le spray s'ajoute au brossage. Il ne remplace ni le brossage ni le dentiste."
+    }
+  ],
+  "texte_final": {
+    "titre": "Prends soin de ta bouche",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Spray buccal apaisant à la vitamine E, 30 ml, pour dents et gencives. Livraison gratuite au Bénin, paiement à la livraison."
+}

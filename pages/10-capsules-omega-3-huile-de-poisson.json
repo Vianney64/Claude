@@ -1,0 +1,130 @@
+{
+  "titre_produit": "Capsules d'oméga-3 – 1000 mg",
+  "handle": "capsules-omega-3-huile-de-poisson",
+  "accroche_hero": "Des oméga-3 pour ton bien-être quotidien",
+  "sous_accroche": "Un complément alimentaire en capsules d'huile de poisson de 1000 mg, avec EPA et DHA.",
+  "puces_benefices": [
+    "Huile de poisson, 1000 mg",
+    "Contient de l'EPA et du DHA",
+    "Capsules halal"
+  ],
+  "problemes": [
+    {
+      "titre": "Peu de poisson gras",
+      "texte": "On ne mange pas toujours du poisson gras."
+    },
+    {
+      "titre": "Repas pressés",
+      "texte": "Le rythme du quotidien limite les repas variés."
+    },
+    {
+      "titre": "Besoin d'oméga-3",
+      "texte": "Le corps ne fabrique pas lui-même les oméga-3."
+    },
+    {
+      "titre": "Trop de choix",
+      "texte": "Il y a beaucoup de compléments et peu d'explications."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "EPA et DHA",
+      "texte": "Les oméga-3 EPA et DHA contribuent au bien-être général."
+    },
+    {
+      "titre": "Cœur",
+      "texte": "Ils contribuent au bien-être du cœur, avec une alimentation variée."
+    },
+    {
+      "titre": "Pratique",
+      "texte": "Une capsule facile à avaler avec de l'eau."
+    },
+    {
+      "titre": "Halal",
+      "texte": "Des capsules halal, adaptées à ton alimentation."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Huile de poisson",
+      "role": "Aide à apporter des oméga-3."
+    },
+    {
+      "nom": "EPA",
+      "role": "Contribue au bien-être du cœur."
+    },
+    {
+      "nom": "DHA",
+      "role": "Contribue au bien-être du cerveau."
+    }
+  ],
+  "etapes_utilisation": [
+    "Lis la notice avant de commencer.",
+    "Prends la dose indiquée sur l'emballage, pas plus.",
+    "Avale avec un grand verre d'eau.",
+    "Range le produit au sec, hors de portée des enfants."
+  ],
+  "precautions": [
+    "Complément alimentaire : il ne remplace pas une alimentation variée et équilibrée, ni un traitement médical. Ne dépasse pas la dose indiquée sur l'emballage.",
+    "Pas pour les enfants. Ne le prends pas si tu es allergique au poisson. Demande l'avis d'un médecin avant si tu es enceinte, si tu allaites ou si tu suis un traitement, surtout contre la coagulation.",
+    "Arrête et consulte un médecin en cas de malaise ou d'effet gênant. Ce produit ne soigne aucune maladie."
+  ],
+  "comparaison": [
+    {
+      "critere": "Source",
+      "produit": "Huile de poisson en capsule",
+      "alternative": "Poisson gras, quantité variable"
+    },
+    {
+      "critere": "Pratique",
+      "produit": "Une capsule avec de l'eau",
+      "alternative": "Cuisine et achats à prévoir"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce un médicament ? Qui ne doit pas en prendre ?",
+      "reponse": "Non. C'est un complément alimentaire, il ne soigne aucune maladie. Les enfants, les femmes enceintes ou qui allaitent et les personnes sous traitement doivent demander l'avis d'un médecin avant."
+    }
+  ],
+  "texte_final": {
+    "titre": "Les oméga-3, simplement",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Capsules d'oméga-3 huile de poisson 1000 mg, EPA et DHA, halal. Complément alimentaire. Livraison gratuite au Bénin, paiement à la livraison."
+}

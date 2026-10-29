@@ -1,0 +1,134 @@
+{
+  "titre_produit": "Patchs gel contour des yeux à l'extrait de plantes",
+  "handle": "patchs-gel-contour-des-yeux",
+  "accroche_hero": "Une pause fraîcheur pour ton regard",
+  "sous_accroche": "Des patchs gel à l'extrait de plantes pour prendre soin de la peau sous les yeux.",
+  "puces_benefices": [
+    "Patchs gel, extrait de plantes",
+    "Aide à rafraîchir la peau",
+    "Une pause détente en un geste"
+  ],
+  "problemes": [
+    {
+      "titre": "Écrans",
+      "texte": "Les longues heures devant l'écran fatiguent le regard."
+    },
+    {
+      "titre": "Nuits courtes",
+      "texte": "Le manque de sommeil fatigue le contour des yeux."
+    },
+    {
+      "titre": "Chaleur",
+      "texte": "La chaleur et la poussière sèchent la peau fine."
+    },
+    {
+      "titre": "Pas le temps",
+      "texte": "On manque de temps pour un vrai soin du visage."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Rafraîchit",
+      "texte": "Le gel aide à rafraîchir la peau sous les yeux."
+    },
+    {
+      "titre": "Hydrate",
+      "texte": "Il contribue à garder la peau souple."
+    },
+    {
+      "titre": "Détend",
+      "texte": "C'est une petite pause détente."
+    },
+    {
+      "titre": "Facile",
+      "texte": "Tu poses les patchs, tu respires, c'est tout."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Extrait d'aloe vera",
+      "role": "Aide à apaiser la peau."
+    },
+    {
+      "nom": "Extrait de concombre",
+      "role": "Contribue à rafraîchir la peau."
+    },
+    {
+      "nom": "Extrait de thé vert",
+      "role": "Aide à protéger la peau."
+    },
+    {
+      "nom": "Hydrogel",
+      "role": "Contribue à garder la peau hydratée."
+    }
+  ],
+  "etapes_utilisation": [
+    "Nettoie et sèche la peau sous les yeux.",
+    "Sors les patchs et pose-les sous les yeux, sans toucher l'œil.",
+    "Laisse poser le temps indiqué sur l'emballage.",
+    "Retire-les doucement et masse le reste de gel."
+  ],
+  "precautions": [
+    "Usage externe seulement, sur la peau sous les yeux. Évite le contact avec l'œil et rince à l'eau claire si besoin. Teste d'abord sur une petite zone.",
+    "Arrête si la peau rougit, pique ou gratte. Ne les pose pas sur une peau abîmée. Pas pour les enfants.",
+    "Ce produit prend soin de la peau et ne traite aucun problème de vue. Si tu as une douleur, une baisse de vue ou un œil rouge, consulte un médecin."
+  ],
+  "comparaison": [
+    {
+      "critere": "Pensé pour",
+      "produit": "La peau sous les yeux",
+      "alternative": "Crème pour tout le visage"
+    },
+    {
+      "critere": "Geste",
+      "produit": "Tu poses et tu te détends",
+      "alternative": "Application avec les doigts"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Combien de temps je garde les patchs ?",
+      "reponse": "Suis le temps indiqué sur l'emballage. Ne les garde pas plus longtemps."
+    }
+  ],
+  "texte_final": {
+    "titre": "Offre une pause à ton regard",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Patchs gel contour des yeux à l'extrait de plantes. Soin de la peau, geste frais. Livraison gratuite au Bénin, paiement à la livraison."
+}

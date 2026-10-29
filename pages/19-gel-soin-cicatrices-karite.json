@@ -1,0 +1,130 @@
+{
+  "titre_produit": "Gel soin cicatrices au karité – 50 ml",
+  "handle": "gel-soin-cicatrices-karite",
+  "accroche_hero": "Prends soin de ta peau avec le karité",
+  "sous_accroche": "Un gel de 50 ml au beurre de karité pour accompagner les peaux qui gardent des cicatrices.",
+  "puces_benefices": [
+    "Gel au beurre de karité",
+    "Aide à adoucir la peau",
+    "Grand format de 50 ml"
+  ],
+  "problemes": [
+    {
+      "titre": "Petites cicatrices",
+      "texte": "Après une coupure ou un bouton, la peau garde parfois une trace."
+    },
+    {
+      "titre": "Peau sèche",
+      "texte": "Une peau trop sèche reste moins souple."
+    },
+    {
+      "titre": "Soleil",
+      "texte": "Le soleil peut marquer la peau et la fatiguer."
+    },
+    {
+      "titre": "Trop de promesses",
+      "texte": "Beaucoup de pubs promettent tout, mais aucun soin ne peut le faire."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Nourrit",
+      "texte": "Le karité aide à nourrir la peau."
+    },
+    {
+      "titre": "Adoucit",
+      "texte": "Le gel contribue à adoucir l'aspect de la peau."
+    },
+    {
+      "titre": "Léger",
+      "texte": "Sa texture gel est facile à étaler."
+    },
+    {
+      "titre": "Grand format",
+      "texte": "Un tube de 50 ml pour t'en servir longtemps."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Beurre de karité",
+      "role": "Aide à nourrir la peau."
+    },
+    {
+      "nom": "Aloe vera",
+      "role": "Aide à apaiser la peau."
+    },
+    {
+      "nom": "Vitamine E",
+      "role": "Contribue à protéger la peau."
+    }
+  ],
+  "etapes_utilisation": [
+    "Lave la zone avec un savon doux et sèche-la.",
+    "Prends une petite quantité de gel.",
+    "Masse doucement jusqu'à ce qu'il rentre.",
+    "Respecte la fréquence indiquée sur l'emballage et protège ta peau du soleil."
+  ],
+  "precautions": [
+    "Usage externe seulement. Évite les yeux et les lèvres. Teste d'abord sur une petite zone.",
+    "Ne le mets pas sur une plaie ouverte ou une cicatrice pas encore fermée. Arrête si la peau rougit ou gratte.",
+    "Si une cicatrice grossit, change ou fait mal, consulte un médecin. Ce produit ne traite aucune maladie."
+  ],
+  "comparaison": [
+    {
+      "critere": "Pensé pour",
+      "produit": "Les cicatrices",
+      "alternative": "Crème générale pour le corps"
+    },
+    {
+      "critere": "Promesse",
+      "produit": "Aucune promesse magique : un soin régulier",
+      "alternative": "Pubs qui promettent tout"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce que ça marche sur toutes les cicatrices ?",
+      "reponse": "Chaque peau est différente. Ce gel aide à prendre soin de la peau. Il ne promet aucun résultat sur une cicatrice. Pour une cicatrice importante, demande l'avis d'un médecin."
+    }
+  ],
+  "texte_final": {
+    "titre": "Un soin doux pour ta peau",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Gel soin cicatrices au beurre de karité, 50 ml. Un soin doux pour la peau. Livraison gratuite au Bénin, paiement à la livraison."
+}

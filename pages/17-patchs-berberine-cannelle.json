@@ -1,0 +1,130 @@
+{
+  "titre_produit": "Patchs berbérine et cannelle – 30 patchs",
+  "handle": "patchs-berberine-cannelle",
+  "accroche_hero": "Un patch pour accompagner ton équilibre",
+  "sous_accroche": "Un patch de bien-être à la berbérine et à la cannelle, pensé pour accompagner une alimentation équilibrée.",
+  "puces_benefices": [
+    "Berbérine et cannelle",
+    "30 patchs par paquet",
+    "Pensé pour accompagner l'appétit"
+  ],
+  "problemes": [
+    {
+      "titre": "Envies de sucré",
+      "texte": "Les envies de sucré arrivent souvent entre les repas."
+    },
+    {
+      "titre": "Repas sautés",
+      "texte": "Le rythme du quotidien fait sauter des repas."
+    },
+    {
+      "titre": "Grignotage",
+      "texte": "On grignote souvent par habitude, sans vraie faim."
+    },
+    {
+      "titre": "Trop de régimes",
+      "texte": "Les régimes stricts sont difficiles à tenir."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Accompagne",
+      "texte": "Il est pensé pour accompagner une alimentation équilibrée."
+    },
+    {
+      "titre": "Sans avaler",
+      "texte": "Un patch à coller, pas de capsule à avaler."
+    },
+    {
+      "titre": "Routine",
+      "texte": "Un geste simple à garder dans ta journée."
+    },
+    {
+      "titre": "30 patchs",
+      "texte": "Un paquet de 30 patchs pour ta routine."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Berbérine",
+      "role": "Contribue à accompagner ta routine de bien-être."
+    },
+    {
+      "nom": "Cannelle",
+      "role": "Aide à apporter un parfum chaud."
+    },
+    {
+      "nom": "Base adhésive douce",
+      "role": "Contribue à bien tenir sur la peau."
+    }
+  ],
+  "etapes_utilisation": [
+    "Lis la notice avant de commencer.",
+    "Colle le patch sur une peau propre et sèche, à l'endroit indiqué sur la notice.",
+    "Utilise un seul patch à la fois, selon la notice.",
+    "Retire-le doucement et change d'endroit à chaque fois."
+  ],
+  "precautions": [
+    "Produit de bien-être, pas un médicament. Il ne remplace pas une alimentation variée et équilibrée, ni un traitement médical.",
+    "Pas pour les enfants ni pour les moins de 18 ans. Demande l'avis d'un médecin avant si tu es enceinte, si tu allaites ou si tu suis un traitement (sucre, tension, coagulation), car la berbérine peut interagir avec des médicaments.",
+    "Retire le patch en cas de rougeur, de démangeaison ou de malaise, et consulte un médecin si ça continue. Ce produit ne soigne aucune maladie."
+  ],
+  "comparaison": [
+    {
+      "critere": "Format",
+      "produit": "Patch à coller",
+      "alternative": "Capsules à avaler"
+    },
+    {
+      "critere": "Approche",
+      "produit": "Accompagne une alimentation équilibrée",
+      "alternative": "Régimes très stricts"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce que ça remplace une alimentation équilibrée ?",
+      "reponse": "Non. Ce patch accompagne une alimentation équilibrée et l'activité physique. Il ne les remplace pas, et aucun résultat n'est promis."
+    }
+  ],
+  "texte_final": {
+    "titre": "Un geste simple pour ta routine",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Patchs berbérine et cannelle, 30 patchs. Pensés pour accompagner une alimentation équilibrée. Livraison gratuite au Bénin, paiement à la livraison."
+}

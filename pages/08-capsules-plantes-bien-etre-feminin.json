@@ -1,0 +1,134 @@
+{
+  "titre_produit": "Capsules aux plantes bien-être féminin",
+  "handle": "capsules-plantes-bien-etre-feminin",
+  "accroche_hero": "Prends soin de ton bien-être féminin",
+  "sous_accroche": "Un complément alimentaire en capsules, à base de plantes, pour ton bien-être au quotidien.",
+  "puces_benefices": [
+    "Complément alimentaire en capsules",
+    "À base de plantes",
+    "Pour ton bien-être au quotidien"
+  ],
+  "problemes": [
+    {
+      "titre": "Rythme chargé",
+      "texte": "Travail, famille, fatigue : on s'oublie souvent."
+    },
+    {
+      "titre": "Petit coup de pouce",
+      "texte": "Le corps a parfois besoin d'un peu d'attention."
+    },
+    {
+      "titre": "Trop de produits",
+      "texte": "Il y en a tellement qu'on ne sait plus lesquels choisir."
+    },
+    {
+      "titre": "Chaque femme",
+      "texte": "Chaque femme est différente, et chaque corps aussi."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Plantes",
+      "texte": "Un mélange de plantes pensé pour le bien-être féminin."
+    },
+    {
+      "titre": "Simple",
+      "texte": "Des capsules faciles à avaler avec de l'eau."
+    },
+    {
+      "titre": "Routine",
+      "texte": "Une habitude simple à garder dans ta journée."
+    },
+    {
+      "titre": "Équilibre",
+      "texte": "Un complément à associer à une alimentation variée."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Hibiscus",
+      "role": "Contribue au bien-être général."
+    },
+    {
+      "nom": "Gingembre",
+      "role": "Contribue au bien-être digestif."
+    },
+    {
+      "nom": "Moringa",
+      "role": "Aide à apporter des nutriments."
+    },
+    {
+      "nom": "Fenugrec",
+      "role": "Contribue à l'équilibre alimentaire."
+    }
+  ],
+  "etapes_utilisation": [
+    "Lis la notice avant de commencer.",
+    "Prends la dose indiquée sur l'emballage, pas plus.",
+    "Avale avec un grand verre d'eau.",
+    "Range le produit au sec, hors de portée des enfants."
+  ],
+  "precautions": [
+    "Complément alimentaire : il ne remplace pas une alimentation variée et équilibrée, ni un traitement médical. Ne dépasse pas la dose indiquée sur l'emballage. Prends-le uniquement par la bouche, ne l'utilise jamais autrement.",
+    "Pas pour les enfants. Demande l'avis d'un médecin avant de le prendre si tu es enceinte, si tu allaites, si tu suis un traitement ou si tu es allergique à un ingrédient.",
+    "Arrête et consulte un médecin en cas de malaise ou d'effet gênant. Ce produit ne soigne aucune maladie ; en cas de douleur, de gonflement ou de saignement, consulte un médecin."
+  ],
+  "comparaison": [
+    {
+      "critere": "Forme",
+      "produit": "Capsules faciles à avaler",
+      "alternative": "Tisanes ou poudres à préparer"
+    },
+    {
+      "critere": "Information",
+      "produit": "Précautions écrites sur la page",
+      "alternative": "Souvent peu d'explications"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce un médicament ? Qui ne doit pas en prendre ?",
+      "reponse": "Non. C'est un complément alimentaire, il ne soigne aucune maladie. Les enfants, les femmes enceintes ou qui allaitent et les personnes sous traitement doivent demander l'avis d'un médecin avant."
+    }
+  ],
+  "texte_final": {
+    "titre": "Une routine bien-être pour toi",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Capsules aux plantes bien-être féminin. Complément alimentaire. Livraison gratuite au Bénin, paiement à la livraison."
+}

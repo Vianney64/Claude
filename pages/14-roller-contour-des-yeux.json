@@ -1,0 +1,134 @@
+{
+  "titre_produit": "Roller massant contour des yeux – 8 ml",
+  "handle": "roller-contour-des-yeux",
+  "accroche_hero": "Un massage frais pour le contour des yeux",
+  "sous_accroche": "Un roller de 8 ml à rouler doucement sur la peau autour des yeux.",
+  "puces_benefices": [
+    "Roller massant de 8 ml",
+    "Aide à rafraîchir le contour",
+    "Se glisse dans ton sac"
+  ],
+  "problemes": [
+    {
+      "titre": "Écrans",
+      "texte": "Les longues heures devant l'écran fatiguent le regard."
+    },
+    {
+      "titre": "Nuits courtes",
+      "texte": "Le manque de sommeil fatigue le contour des yeux."
+    },
+    {
+      "titre": "Chaleur et poussière",
+      "texte": "La chaleur et la poussière sèchent la peau fine."
+    },
+    {
+      "titre": "Peau fine",
+      "texte": "La peau du contour des yeux est très fine et fragile."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Rafraîchit",
+      "texte": "La bille aide à rafraîchir la peau."
+    },
+    {
+      "titre": "Détend",
+      "texte": "Le massage est un petit moment de détente."
+    },
+    {
+      "titre": "Hydrate",
+      "texte": "La formule contribue à garder la peau souple."
+    },
+    {
+      "titre": "Pratique",
+      "texte": "Un format de 8 ml facile à emporter."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Aloe vera",
+      "role": "Aide à apaiser la peau."
+    },
+    {
+      "nom": "Extrait de concombre",
+      "role": "Contribue à rafraîchir la peau."
+    },
+    {
+      "nom": "Acide hyaluronique",
+      "role": "Aide la peau à garder son eau."
+    },
+    {
+      "nom": "Vitamine E",
+      "role": "Contribue à protéger la peau."
+    }
+  ],
+  "etapes_utilisation": [
+    "Nettoie et sèche la peau autour des yeux.",
+    "Fais rouler doucement la bille sur le contour, sans toucher l'œil.",
+    "Laisse la formule pénétrer sans frotter.",
+    "Respecte la fréquence indiquée sur l'emballage."
+  ],
+  "precautions": [
+    "Usage externe seulement, sur la peau du contour. Évite le contact avec l'œil et rince à l'eau claire si besoin. Teste d'abord sur une petite zone.",
+    "Arrête si la peau rougit, pique ou gratte. Ne l'utilise pas sur une peau abîmée. Pas pour les enfants.",
+    "Ce produit prend soin de la peau et ne traite aucun problème de vue. Si tu as une douleur, une baisse de vue ou un œil rouge, consulte un médecin."
+  ],
+  "comparaison": [
+    {
+      "critere": "Pensé pour",
+      "produit": "La peau du contour des yeux",
+      "alternative": "Crème pour tout le visage"
+    },
+    {
+      "critere": "Geste",
+      "produit": "Massage avec la bille, sans les doigts",
+      "alternative": "Application avec les doigts"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce que ça agit sur la vue ?",
+      "reponse": "Non. C'est un soin de la peau du contour des yeux. Il ne traite aucun problème de vue."
+    }
+  ],
+  "texte_final": {
+    "titre": "Une pause fraîcheur pour ton regard",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Roller massant pour le contour des yeux, 8 ml. Soin de la peau, geste frais. Livraison gratuite au Bénin, paiement à la livraison."
+}

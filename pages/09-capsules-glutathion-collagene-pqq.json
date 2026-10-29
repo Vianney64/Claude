@@ -1,0 +1,130 @@
+{
+  "titre_produit": "Capsules glutathion liposomal, collagène et PQQ",
+  "handle": "capsules-glutathion-collagene-pqq",
+  "accroche_hero": "Un antioxydant pour prendre soin de ta peau",
+  "sous_accroche": "Un complément alimentaire en capsules : glutathion liposomal, collagène et PQQ.",
+  "puces_benefices": [
+    "Glutathion liposomal",
+    "Avec collagène et PQQ",
+    "Complément alimentaire en capsules"
+  ],
+  "problemes": [
+    {
+      "titre": "Soleil et pollution",
+      "texte": "Le soleil et la pollution fatiguent la peau."
+    },
+    {
+      "titre": "Rythme de vie",
+      "texte": "Le stress et le manque de sommeil pèsent sur la peau."
+    },
+    {
+      "titre": "Alimentation",
+      "texte": "Une alimentation pas toujours variée peut manquer d'antioxydants."
+    },
+    {
+      "titre": "Trop de promesses",
+      "texte": "Beaucoup de produits promettent tout, mais aucun complément ne peut le faire."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Antioxydant",
+      "texte": "Le glutathion aide à protéger les cellules du stress oxydatif."
+    },
+    {
+      "titre": "Collagène",
+      "texte": "Le collagène contribue à prendre soin de la peau."
+    },
+    {
+      "titre": "PQQ",
+      "texte": "Le PQQ est un antioxydant utilisé dans les compléments."
+    },
+    {
+      "titre": "Capsules",
+      "texte": "Un format facile à avaler avec de l'eau."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Glutathion liposomal",
+      "role": "Aide à protéger les cellules du stress oxydatif."
+    },
+    {
+      "nom": "Collagène",
+      "role": "Contribue à prendre soin de la peau."
+    },
+    {
+      "nom": "PQQ",
+      "role": "Aide à la protection antioxydante."
+    }
+  ],
+  "etapes_utilisation": [
+    "Lis la notice avant de commencer.",
+    "Prends la dose indiquée sur l'emballage, pas plus.",
+    "Avale avec un grand verre d'eau.",
+    "Range le produit au sec, hors de portée des enfants."
+  ],
+  "precautions": [
+    "Complément alimentaire : il ne remplace pas une alimentation variée et équilibrée, ni un traitement médical. Ne dépasse pas la dose indiquée sur l'emballage.",
+    "Pas pour les enfants. Demande l'avis d'un médecin avant de le prendre si tu es enceinte, si tu allaites, si tu suis un traitement ou si tu es allergique à un ingrédient. Arrête en cas d'allergie.",
+    "Arrête et consulte un médecin en cas de malaise ou d'effet gênant. Ce produit ne soigne aucune maladie."
+  ],
+  "comparaison": [
+    {
+      "critere": "Actifs",
+      "produit": "Glutathion, collagène et PQQ ensemble",
+      "alternative": "Un seul actif par produit"
+    },
+    {
+      "critere": "Forme",
+      "produit": "Capsules faciles à avaler",
+      "alternative": "Poudres ou boissons à préparer"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce un médicament ? Qui ne doit pas en prendre ?",
+      "reponse": "Non. C'est un complément alimentaire, il ne soigne aucune maladie. Les enfants, les femmes enceintes ou qui allaitent et les personnes sous traitement doivent demander l'avis d'un médecin avant."
+    }
+  ],
+  "texte_final": {
+    "titre": "Prends soin de ta peau de l'intérieur",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Capsules glutathion liposomal, collagène et PQQ. Complément alimentaire antioxydant. Livraison gratuite au Bénin, paiement à la livraison."
+}
