@@ -1,0 +1,134 @@
+{
+  "titre_produit": "Crème soin vergetures – 50 g",
+  "handle": "creme-soin-vergetures",
+  "accroche_hero": "Chouchoute ta peau avec douceur",
+  "sous_accroche": "Une crème de 50 g qui aide à garder la peau douce et souple.",
+  "puces_benefices": [
+    "Crème douce de 50 g",
+    "Aide à garder la peau souple",
+    "Se masse facilement"
+  ],
+  "problemes": [
+    {
+      "titre": "Peau qui tire",
+      "texte": "Quand le corps change, la peau peut tirer."
+    },
+    {
+      "titre": "Peau sèche",
+      "texte": "Une peau sèche perd de sa souplesse."
+    },
+    {
+      "titre": "Marques sur la peau",
+      "texte": "Des marques peuvent apparaître avec le temps, c'est courant."
+    },
+    {
+      "titre": "Soin oublié",
+      "texte": "On prend soin du visage, mais le corps aussi mérite un soin."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Nourrit",
+      "texte": "Le karité aide à nourrir la peau."
+    },
+    {
+      "titre": "Assouplit",
+      "texte": "Elle contribue à garder la peau souple."
+    },
+    {
+      "titre": "Moment à toi",
+      "texte": "Le massage est un petit moment de calme."
+    },
+    {
+      "titre": "Facile",
+      "texte": "Un geste simple, matin et soir."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Beurre de karité",
+      "role": "Aide à nourrir la peau."
+    },
+    {
+      "nom": "Huile d'amande douce",
+      "role": "Contribue à garder la peau souple."
+    },
+    {
+      "nom": "Centella asiatica",
+      "role": "Contribue à prendre soin de la peau."
+    },
+    {
+      "nom": "Vitamine E",
+      "role": "Contribue à protéger la peau."
+    }
+  ],
+  "etapes_utilisation": [
+    "Après la douche, sèche ta peau doucement.",
+    "Prends une petite quantité de crème.",
+    "Masse en cercles, sans frotter fort.",
+    "Fais-le matin et soir."
+  ],
+  "precautions": [
+    "Usage externe seulement. Évite les yeux et les lèvres. Teste d'abord sur une petite zone.",
+    "Si tu es enceinte ou si tu allaites, demande l'avis de ton médecin ou de ta sage-femme avant.",
+    "Ne mets pas la crème sur une plaie ouverte. Arrête si la peau rougit ou gratte."
+  ],
+  "comparaison": [
+    {
+      "critere": "Pensé pour",
+      "produit": "La peau qui a besoin de souplesse",
+      "alternative": "Lait ou huile ordinaire"
+    },
+    {
+      "critere": "Ingrédients",
+      "produit": "Karité, amande douce, centella",
+      "alternative": "Formule générale"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce que ça marche sur les vergetures ?",
+      "reponse": "Aucun soin ne peut promettre un résultat. Cette crème aide à garder la peau douce et souple."
+    }
+  ],
+  "texte_final": {
+    "titre": "Offre de la douceur à ta peau",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Crème soin vergetures, 50 g. Karité et amande douce pour une peau souple. Livraison gratuite au Bénin, paiement à la livraison. Keshi store."
+}

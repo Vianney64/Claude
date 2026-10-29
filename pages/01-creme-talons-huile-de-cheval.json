@@ -1,0 +1,134 @@
+{
+  "titre_produit": "Crème talons à l'huile de cheval – 120 g",
+  "handle": "creme-talons-huile-de-cheval",
+  "accroche_hero": "Des pieds doux, prêts pour les sandales",
+  "sous_accroche": "Une crème riche à l'huile de cheval pour prendre soin des talons et des pieds secs.",
+  "puces_benefices": [
+    "Huile de cheval nourrissante",
+    "Aide à adoucir les talons secs",
+    "Pot généreux de 120 g"
+  ],
+  "problemes": [
+    {
+      "titre": "Pieds secs",
+      "texte": "La peau des talons devient rêche et tire en marchant."
+    },
+    {
+      "titre": "Harmattan",
+      "texte": "Le vent et la poussière sèchent vite la peau des pieds."
+    },
+    {
+      "titre": "Sandales",
+      "texte": "Les frottements gênent quand la peau est sèche."
+    },
+    {
+      "titre": "Soin oublié",
+      "texte": "On pense au visage, mais on oublie souvent les pieds."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Nourrit",
+      "texte": "L'huile de cheval aide à nourrir la peau sèche."
+    },
+    {
+      "titre": "Adoucit",
+      "texte": "Elle contribue à garder les talons plus doux."
+    },
+    {
+      "titre": "Facile",
+      "texte": "Tes mains suffisent, pas besoin d'appareil."
+    },
+    {
+      "titre": "Généreux",
+      "texte": "Un pot de 120 g pour t'en servir chaque soir."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Huile de cheval",
+      "role": "Aide à nourrir la peau sèche."
+    },
+    {
+      "nom": "Beurre de karité",
+      "role": "Contribue à protéger la peau."
+    },
+    {
+      "nom": "Glycérine",
+      "role": "Aide la peau à garder son eau."
+    },
+    {
+      "nom": "Vitamine E",
+      "role": "Contribue à protéger la peau de la sécheresse."
+    }
+  ],
+  "etapes_utilisation": [
+    "Lave tes pieds et sèche-les bien.",
+    "Prends un peu de crème dans ta main.",
+    "Masse les talons en cercles, jusqu'à ce que la crème rentre.",
+    "Fais-le chaque soir, avant de dormir."
+  ],
+  "precautions": [
+    "Usage externe seulement. Évite les yeux. Teste d'abord sur une petite zone.",
+    "Ne mets pas la crème sur une plaie ouverte ou qui saigne. Arrête si la peau rougit ou gratte.",
+    "Si tu es diabétique ou si la peau des pieds est très abîmée, demande l'avis d'un médecin."
+  ],
+  "comparaison": [
+    {
+      "critere": "Pensé pour",
+      "produit": "Les talons et les pieds secs",
+      "alternative": "Crème pour tout le corps"
+    },
+    {
+      "critere": "Ingrédient clé",
+      "produit": "Huile de cheval",
+      "alternative": "Formule générale"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Quand dois-je l'utiliser ?",
+      "reponse": "Le soir, après avoir lavé et séché tes pieds. Tu peux aussi l'utiliser le matin."
+    }
+  ],
+  "texte_final": {
+    "titre": "Prends soin de tes pieds",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Crème talons à l'huile de cheval, 120 g. Prends soin des pieds secs. Livraison gratuite au Bénin, paiement à la livraison. Keshi store."
+}

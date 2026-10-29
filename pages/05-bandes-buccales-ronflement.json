@@ -1,0 +1,130 @@
+{
+  "titre_produit": "Bandes buccales de nuit – 30 patchs",
+  "handle": "bandes-buccales-nuit",
+  "accroche_hero": "Dors la bouche fermée, simplement",
+  "sous_accroche": "Des bandes douces qui aident à garder la bouche fermée pendant la nuit.",
+  "puces_benefices": [
+    "30 patchs dans le paquet",
+    "Aide à garder la bouche fermée",
+    "Pose simple avant de dormir"
+  ],
+  "problemes": [
+    {
+      "titre": "Nuits agitées",
+      "texte": "Un ronflement fort peut gêner ton sommeil et celui des autres."
+    },
+    {
+      "titre": "Bouche sèche",
+      "texte": "Dormir la bouche ouverte peut sécher la bouche."
+    },
+    {
+      "titre": "Chambre partagée",
+      "texte": "Dormir à deux ou en famille est plus dur quand ça ronfle."
+    },
+    {
+      "titre": "Matin lourd",
+      "texte": "Une mauvaise nuit rend la journée plus lourde."
+    }
+  ],
+  "benefices": [
+    {
+      "titre": "Bouche fermée",
+      "texte": "La bande aide à garder la bouche fermée la nuit."
+    },
+    {
+      "titre": "Par le nez",
+      "texte": "Elle aide à respirer par le nez, si ton nez est dégagé."
+    },
+    {
+      "titre": "Simple",
+      "texte": "Tu la poses avant de dormir et tu la retires au réveil."
+    },
+    {
+      "titre": "30 patchs",
+      "texte": "Un patch par nuit, et le paquet en contient 30."
+    }
+  ],
+  "ingredients": [
+    {
+      "nom": "Ruban microporeux",
+      "role": "Aide à laisser respirer la peau."
+    },
+    {
+      "nom": "Adhésif doux pour la peau",
+      "role": "Contribue à un retrait plus confortable."
+    },
+    {
+      "nom": "Forme adaptée aux lèvres",
+      "role": "Aide à bien couvrir sans serrer."
+    }
+  ],
+  "etapes_utilisation": [
+    "Vérifie que ton nez est bien dégagé.",
+    "Lave et sèche tes lèvres et le tour de la bouche.",
+    "Pose une bande sur tes lèvres fermées, sans serrer.",
+    "Au réveil, retire-la doucement. Mouille-la un peu si besoin."
+  ],
+  "precautions": [
+    "N'utilise pas ce produit si ton nez est bouché, si tu as un rhume, une allergie ou du mal à respirer. Pas pour les enfants.",
+    "Évite-le après de l'alcool ou des médicaments qui font dormir. Retire la bande tout de suite si tu as du mal à respirer ou si tu te sens mal.",
+    "Ronflement très fort, pauses de respiration ou grande fatigue : va voir un médecin. Ce produit ne soigne aucune maladie."
+  ],
+  "comparaison": [
+    {
+      "critere": "Pensé pour",
+      "produit": "Garder la bouche fermée la nuit",
+      "alternative": "Rien, ou un oreiller en plus"
+    },
+    {
+      "critere": "Peau",
+      "produit": "Bande faite pour les lèvres",
+      "alternative": "Ruban ordinaire qui peut irriter"
+    },
+    {
+      "critere": "Livraison",
+      "produit": "Gratuite, chez toi",
+      "alternative": "Se déplacer au marché ou en boutique"
+    },
+    {
+      "critere": "Paiement",
+      "produit": "À la livraison",
+      "alternative": "Souvent payé avant de recevoir"
+    },
+    {
+      "critere": "Offre",
+      "produit": "Pack de 3 à 15 000 FCFA au lieu de 21 000 FCFA",
+      "alternative": "Achat à l'unité"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Combien ça coûte ?",
+      "reponse": "Le produit coûte 7 000 FCFA. Le pack de 3 coûte 15 000 FCFA, au lieu de 21 000 FCFA."
+    },
+    {
+      "question": "La livraison est-elle vraiment gratuite ?",
+      "reponse": "Oui. La livraison est gratuite. Tu paies seulement le produit."
+    },
+    {
+      "question": "Comment je paie ?",
+      "reponse": "Tu paies à la livraison. Tu ne paies rien avant de recevoir ton colis."
+    },
+    {
+      "question": "Quand vais-je recevoir mon colis ?",
+      "reponse": "Le délai dépend de ta ville. Appelle-nous au +229 01 94 80 27 20 pour le connaître. Pour les fêtes de fin d'année, commande avant le 15 décembre pour être livré avant les fêtes."
+    },
+    {
+      "question": "Est-ce que ma commande est discrète ?",
+      "reponse": "Oui. Nous ne partageons ni ton nom, ni ton numéro, ni ta commande avec d'autres personnes."
+    },
+    {
+      "question": "Est-ce que ça arrête le ronflement ?",
+      "reponse": "Nous ne pouvons pas le promettre. Chaque personne est différente. La bande aide à garder la bouche fermée. Si tu as un doute, demande l'avis d'un médecin."
+    }
+  ],
+  "texte_final": {
+    "titre": "Prépare ta nuit simplement",
+    "phrase": "Clique sur « Livrez-moi » : livraison gratuite, tu paies à la livraison."
+  },
+  "description_seo": "Bandes buccales de nuit, 30 patchs. Aident à garder la bouche fermée. Livraison gratuite au Bénin, paiement à la livraison. Keshi store."
+}
