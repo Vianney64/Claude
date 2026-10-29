@@ -1,3 +1,6 @@
+<!--plans:[{"d":3,"calque":"rouge","texte":"Stop citron et dentifrice !","prompt":"Plan rapproché. Femme de 32 ans, tresses, haut wax, dans une cuisine claire de Cotonou ; elle lève la paume comme pour dire stop, regard ferme et bienveillant."},{"d":4,"calque":"rouge","texte":"Citron, dentifrice : à éviter","prompt":"Plan fixe sur une étagère de salle de bain en carrelage beige : un citron coupé en deux et un tube de dentifrice côte à côte. Une grande croix rouge translucide se superpose. Aucun visage, aucune peau à l'image."},{"d":4,"calque":"rouge","texte":"Ne perce pas tes boutons","prompt":"Plan moyen. Un jeune homme de 24 ans (chemise, lunettes) est assis sur un lit ; il approche la main de son visage puis la retire, comme s'il se retenait. La peau de son visage n'est jamais montrée de près."},{"d":4,"calque":"vert","texte":"Un gel pensé pour la peau","prompt":"Gros plan sur les mains. Une main tient le petit tube de gel transparent à bouchon vert ; une goutte de gel transparent sur le bout du doigt. Arrière-plan : étagère propre avec savon doux et serviette beige."},{"d":4,"calque":"vert","texte":"Aloe vera · 20 g","prompt":"Plan rapproché. Jeune femme de 26 ans devant un lavabo, elle étale doucement le gel sur la joue du bout des doigts, sourire calme, lumière naturelle de la fenêtre. Peau saine, teint fidèle, sans filtre."},{"d":4,"calque":"vert","texte":"7 000 FCFA · Livraison gratuite","prompt":"Plan produit. Le tube posé sur une serviette beige et une feuille d'aloe vera fraîche, lumière douce de salle de bain."},{"d":4,"calque":"vert","texte":"Livrez-moi · Paiement à la livraison","prompt":"Un livreur à moto (casque, tee-shirt jaune) tend un petit colis à une jeune femme qui sourit sur le seuil d'une maison à Calavi. Incrustation d'un bouton rouge arrondi « Livrez-moi »."}]-->
+<!--voix:"Arrête ! Pas de citron sur ta peau ! Le citron et le dentifrice peuvent irriter la peau. Ne perce pas non plus tes boutons, ça irrite. Prends plutôt un gel pensé pour la peau. Ce gel à l'aloe vera aide à apaiser la peau. Sept mille francs. Livraison gratuite. Tu paies à la livraison. Clique sur Livrez-moi !"-->
+
 # Vidéos TikTok 9:16 — Gel soin boutons et taches – 20 g
 
 Format : 1080 x 1920, 25 à 30 secondes. Voix off féminine, familière et ferme (grande sœur ou tante), français parlé du Bénin. Sous-titres incrustés. Garder les 150 px du haut et les 300 px du bas libres pour l'interface TikTok.
@@ -9,6 +12,8 @@ Visuel produit pour la génération d'images : petit tube de gel transparent de 
 Règle image propre à ce produit : Ne jamais montrer de boutons, de taches ni de gros plan sur une peau à problèmes. Visages montrés de près uniquement avec une peau saine, rendu fidèle, sans filtre qui modifie le teint.
 
 Calques : ROUGE = plans du problème (voile rouge semi-transparent), VERT = plans du soulagement (voile vert semi-transparent). Les plans rouges ne montrent jamais de peau abîmée.
+
+Lignes machine en tête de fichier : `plans` (durée, calque, texte, prompt de chaque plan) et `voix` (texte de la voix du script A), lues par `tools/montage.py`.
 
 ---
 

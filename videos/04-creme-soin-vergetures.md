@@ -1,3 +1,6 @@
+<!--plans:[{"d":3,"calque":"rouge","texte":"Maman, pense à toi","prompt":"Plan rapproché. Femme de 36 ans, bébé attaché dans le dos avec un pagne, dans une cour à Ouidah ; elle fait un clin d'œil et tend la main vers la caméra comme pour inviter."},{"d":4,"calque":"rouge","texte":"Enfants, travail, maison…","prompt":"Plan large, un seul plan. La même femme fait cuire à la poêle sur un fourneau à charbon, tresse les cheveux d'une fillette, répond au téléphone : énergie, sourire fatigué mais tendre."},{"d":4,"calque":"vert","texte":"Ta peau aussi mérite de la douceur","prompt":"Plan doux. Elle s'assoit enfin, soupir de soulagement, lumière dorée du soir, elle ferme les yeux deux secondes en souriant."},{"d":4,"calque":"vert","texte":"Crème 50 g · karité","prompt":"Gros plan sur les mains. Le pot de crème rose pâle est ouvert sur une table en bois, tissu wax en arrière-plan. Plan sur le pot, pas sur la peau."},{"d":4,"calque":"vert","texte":"Karité · amande douce · matin et soir","prompt":"Elle masse la crème sur son avant-bras en cercles. Plan sur la main et l'avant-bras uniquement, peau d'apparence normale, sourire détendu, salon aux murs bleus."},{"d":4,"calque":"vert","texte":"7 000 FCFA · Livraison gratuite","prompt":"Plan produit. Le pot posé sur un tissu wax rose et vert, lumière douce."},{"d":4,"calque":"vert","texte":"Livrez-moi · Paiement à la livraison","prompt":"Elle reçoit un petit colis des mains d'un livreur à moto (casque, tee-shirt jaune), bébé toujours dans le dos, large sourire. Incrustation d'un bouton rouge arrondi « Livrez-moi »."}]-->
+<!--voix:"Maman ! Tu penses à tout le monde. Et toi ? Les enfants, le travail, la maison… et ta peau ? Elle mérite de la douceur aussi. Cette crème de cinquante grammes aide à garder la peau souple. Karité, huile d'amande douce… Un massage matin et soir. Sept mille francs. Livraison gratuite. Tu paies à la livraison. Clique sur Livrez-moi !"-->
+
 # Vidéos TikTok 9:16 — Crème soin vergetures – 50 g
 
 Format : 1080 x 1920, 25 à 30 secondes. Voix off féminine, familière et ferme (grande sœur ou tante), français parlé du Bénin. Sous-titres incrustés. Garder les 150 px du haut et les 300 px du bas libres pour l'interface TikTok.
@@ -9,6 +12,8 @@ Visuel produit pour la génération d'images : pot rond de 50 g, crème rose pâ
 Règle image propre à ce produit : Ne jamais montrer de vergetures ni d'autre zone du corps que le visage, les mains et les avant-bras. Aucune tenue dénudée. Le soin s'applique à l'écran sur l'avant-bras uniquement.
 
 Calques : ROUGE = plans du problème (voile rouge semi-transparent), VERT = plans du soulagement (voile vert semi-transparent). Les plans rouges ne montrent jamais de peau abîmée.
+
+Lignes machine en tête de fichier : `plans` (durée, calque, texte, prompt de chaque plan) et `voix` (texte de la voix du script A), lues par `tools/montage.py`.
 
 ---
 

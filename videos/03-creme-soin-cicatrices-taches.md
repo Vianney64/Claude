@@ -1,3 +1,6 @@
+<!--plans:[{"d":3,"calque":"rouge","texte":"Pubs qui promettent tout ?","prompt":"Plan rapproché. Femme de 38 ans, boubou wax vert, dans un salon de Porto-Novo ; elle tient son téléphone d'une main et lève l'autre en signe de stop, sourcils levés. L'écran du téléphone montre seulement des formes colorées abstraites (aucun corps, aucune photo de peau)."},{"d":4,"calque":"rouge","texte":"Personne ne peut tout promettre","prompt":"Plan moyen. Elle fait défiler son téléphone d'un air sceptique mais détendu, une tasse de thé posée à côté. Une croix rouge translucide passe sur l'écran."},{"d":4,"calque":"vert","texte":"Un soin régulier","prompt":"Gros plan sur les mains. Du bout des doigts, elle étale une petite quantité de crème beige sur le dos de sa main, geste lent et doux. Peau d'apparence normale."},{"d":4,"calque":"vert","texte":"Cicatrices et taches · 20 g","prompt":"Gros plan sur le petit pot plat à couvercle doré, ouvert, posé sur une table en bois près d'une plante verte, lumière douce."},{"d":4,"calque":"vert","texte":"Aloe vera","prompt":"Une feuille d'aloe vera fraîche posée à côté du pot, puis plan sur le sourire de la femme, sereine."},{"d":4,"calque":"vert","texte":"7 000 FCFA · Livraison gratuite","prompt":"Plan produit. Le pot posé sur un tissu wax vert et jaune, lumière chaude du salon."},{"d":4,"calque":"vert","texte":"Livrez-moi · Paiement à la livraison","prompt":"La femme reçoit un petit colis des mains d'un livreur à moto (casque, tee-shirt jaune), devant sa porte, large sourire. Incrustation d'un bouton rouge arrondi « Livrez-moi »."}]-->
+<!--voix:"Les pubs qui promettent tout, ma sœur ? Écoute-moi bien. Moi, je ne te promets rien. Je te parle franchement. Mais un soin régulier peut aider ta peau. Cette crème prend soin des cicatrices et des taches de peau. Elle contient de l'aloe vera, qui aide à adoucir. Sept mille francs. Livraison gratuite. Tu paies à la livraison. Clique sur Livrez-moi !"-->
+
 # Vidéos TikTok 9:16 — Crème soin cicatrices et taches – 20 g
 
 Format : 1080 x 1920, 25 à 30 secondes. Voix off féminine, familière et ferme (grande sœur ou tante), français parlé du Bénin. Sous-titres incrustés. Garder les 150 px du haut et les 300 px du bas libres pour l'interface TikTok.
@@ -9,6 +12,8 @@ Visuel produit pour la génération d'images : petit pot plat de 20 g, crème be
 Règle image propre à ce produit : Ne jamais montrer de cicatrice, de tache ni de gros plan sur une zone de peau marquée. Le produit s'applique à l'écran sur le dos de la main ou l'avant-bras, peau d'apparence normale.
 
 Calques : ROUGE = plans du problème (voile rouge semi-transparent), VERT = plans du soulagement (voile vert semi-transparent). Les plans rouges ne montrent jamais de peau abîmée.
+
+Lignes machine en tête de fichier : `plans` (durée, calque, texte, prompt de chaque plan) et `voix` (texte de la voix du script A), lues par `tools/montage.py`.
 
 ---
 

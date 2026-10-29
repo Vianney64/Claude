@@ -1,3 +1,6 @@
+<!--plans:[{"d":3,"calque":"rouge","texte":"Ça ronfle chez toi ?","prompt":"Plan rapproché. Femme de 42 ans en pyjama wax, assise sur un lit avec moustiquaire dans une chambre de Cotonou ; elle se frotte les yeux, sourire en coin, et lève un doigt vers la caméra."},{"d":4,"calque":"rouge","texte":"Nuits courtes, journées lourdes","prompt":"Même chambre, la nuit, lumière bleutée de la lune par la fenêtre. Elle fixe le plafond, éveillée ; à côté, son mari de 45 ans dort paisiblement sur le dos (plan large). Ton doux et un peu drôle, sans moquerie."},{"d":4,"calque":"rouge","texte":"Parfois, on dort la bouche ouverte","prompt":"Matin à la table du petit-déjeuner (pain, café) : un homme de 45 ans, regard fatigué mais souriant, les mains autour de sa tasse ; sa femme verse le café en riant."},{"d":4,"calque":"vert","texte":"Bandes buccales de nuit","prompt":"Gros plan sur les mains. Elles tiennent le paquet plat de patchs et une bande ovale beige entre deux doigts, sur un fond en bois neutre."},{"d":4,"calque":"vert","texte":"Nez dégagé uniquement · Pas pour les enfants","prompt":"Plan sur le haut du visage de l'homme avec la bande posée sur sa bouche fermée, les yeux souriants, il fait un pouce levé ; chambre calme. Bandeau de sécurité en bas de l'image."},{"d":4,"calque":"vert","texte":"7 000 FCFA · Livraison gratuite","prompt":"Plan produit. Le paquet de patchs posé sur une table de chevet avec une lampe et un verre d'eau, lumière douce."},{"d":4,"calque":"vert","texte":"Livrez-moi · Paiement à la livraison","prompt":"Le couple reçoit un petit colis des mains d'un livreur à moto (casque, tee-shirt jaune) devant leur porte, ils sourient. Incrustation d'un bouton rouge arrondi « Livrez-moi »."}]-->
+<!--voix:"Ça ronfle à la maison ? Écoute-moi bien. Les nuits sont courtes, et les journées sont lourdes. Parfois, on dort la bouche ouverte sans le savoir. Ces bandes aident à garder la bouche fermée la nuit. Nez bien dégagé seulement. Trente patchs dans le paquet. Sept mille francs. Livraison gratuite. Tu paies à la livraison. Clique sur Livrez-moi !"-->
+
 # Vidéos TikTok 9:16 — Bandes buccales de nuit – 30 patchs
 
 Format : 1080 x 1920, 25 à 30 secondes. Voix off féminine, familière et ferme (grande sœur ou tante), français parlé du Bénin. Sous-titres incrustés. Garder les 150 px du haut et les 300 px du bas libres pour l'interface TikTok.
@@ -9,6 +12,8 @@ Visuel produit pour la génération d'images : petit paquet plat de 30 patchs av
 Règle image propre à ce produit : Les personnes qui dorment sont montrées sereines, jamais ridiculisées. La bande n'est montrée posée que sur une bouche fermée, avec la mention de sécurité à l'écran. Jamais d'enfant.
 
 Calques : ROUGE = plans du problème (voile rouge semi-transparent), VERT = plans du soulagement (voile vert semi-transparent). Les plans rouges ne montrent jamais de peau abîmée.
+
+Lignes machine en tête de fichier : `plans` (durée, calque, texte, prompt de chaque plan) et `voix` (texte de la voix du script A), lues par `tools/montage.py`.
 
 ---
 
