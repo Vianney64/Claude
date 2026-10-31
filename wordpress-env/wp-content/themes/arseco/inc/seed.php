@@ -34,8 +34,36 @@ if (class_exists('WooCommerce')) {
     update_option('woocommerce_calc_taxes', 'no'); // por validar: ver MANQUANTS.md
     update_option('woocommerce_enable_guest_checkout', 'yes');
     update_option('woocommerce_enable_coupons', 'no');
+    update_option('woocommerce_enable_reviews', 'no');
+    foreach (['checkout_order_received' => 'encomenda-recebida', 'checkout_pay' => 'pagar', 'myaccount_orders' => 'encomendas', 'myaccount_view_order' => 'ver-encomenda', 'myaccount_edit_account' => 'editar-conta', 'myaccount_edit_address' => 'moradas', 'myaccount_lost_password' => 'recuperar-palavra-passe', 'myaccount_customer_logout' => 'sair'] as $k => $v) {
+        update_option("woocommerce_{$k}_endpoint", $v);
+    }
+    update_option('woocommerce_checkout_privacy_policy_text', 'Os seus dados pessoais serão usados para processar a encomenda, apoiar a sua experiência neste site e para outros fins descritos na nossa [privacy_policy].');
+    update_option('woocommerce_registration_privacy_policy_text', 'Os seus dados pessoais serão usados para apoiar a sua experiência neste site, gerir o acesso à sua conta e para outros fins descritos na nossa [privacy_policy].');
+    update_option('woocommerce_checkout_terms_and_conditions_checkbox_text', 'Li e aceito os [terms] do site');
     update_option('woocommerce_terms_page_id', $page_ids['termos-e-condicoes']);
     update_option('woocommerce_privacy_policy_page_id', $page_ids['politica-de-privacidade'] ?? 0);
+
+    update_option('woocommerce_coming_soon', 'no');
+    update_option('woocommerce_permalinks', ['product_base' => 'produto', 'category_base' => 'categoria', 'tag_base' => 'etiqueta', 'attribute_base' => '', 'use_verbose_page_rules' => false]);
+
+    // Páginas do WooCommerce em português, com shortcodes clássicos (mais previsíveis de estilizar que os blocos).
+    $woo_pages = [
+        'shop'      => ['loja', 'Loja', ''],
+        'cart'      => ['carrinho', 'Carrinho', '[woocommerce_cart]'],
+        'checkout'  => ['finalizar-compra', 'Finalizar compra', '[woocommerce_checkout]'],
+        'myaccount' => ['minha-conta', 'A minha conta', '[woocommerce_my_account]'],
+    ];
+    foreach ($woo_pages as $key => [$slug, $title, $content]) {
+        $pid = (int) get_option("woocommerce_{$key}_page_id");
+        if ($pid && get_post($pid)) {
+            $update = ['ID' => $pid, 'post_name' => $slug, 'post_title' => $title];
+            if ($content !== '') {
+                $update['post_content'] = $content;
+            }
+            wp_update_post($update);
+        }
+    }
 
     foreach (arseco_demo_products() as $d) {
         $existing = get_page_by_path($d['slug'], OBJECT, 'product');

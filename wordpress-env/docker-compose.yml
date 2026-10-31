@@ -54,6 +54,7 @@ services:
     volumes:
       - wp_data:/var/www/html
       - ./wp-content/themes/arseco:/var/www/html/wp-content/themes/arseco
+      - ./vendor:/vendor:ro
     working_dir: /var/www/html
 
 volumes:

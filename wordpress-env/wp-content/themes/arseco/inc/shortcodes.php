@@ -11,7 +11,7 @@ add_shortcode('livre_resolucao', function () {
     $status = sanitize_key($_GET['lr'] ?? '');
     $out = '';
     if ($status === 'ok') {
-        $out .= '<p class="notice notice--ok" role="status">Pedido recebido. Enviámos uma confirmação para o seu e-mail.</p>';
+        $out .= '<p class="notice notice--ok" role="status">Pedido registado. Guarde esta mensagem como comprovativo da data e hora. A confirmação é também enviada para o e-mail indicado.</p>';
     } elseif ($status === 'erro') {
         $out .= '<p class="notice notice--erro" role="alert">Não foi possível enviar o pedido. Verifique os campos e tente novamente.</p>';
     }
@@ -50,14 +50,37 @@ function arseco_handle_lr(): void
         exit;
     }
 
-    $to = arseco_company('email') ?: get_option('admin_email');
+    // O pedido fica registado primeiro (prova de data e hora); os e-mails são secundários e podem falhar sem perder o pedido.
     $when = wp_date('d/m/Y H:i');
-    $body = "Pedido de livre resolução recebido em {$when}\n\nNome: {$nome}\nE-mail: {$email}\nEncomenda: {$enc}\nProdutos: {$prod}\n";
-    $sent = wp_mail($to, 'Livre resolução: encomenda ' . $enc, $body, ['Reply-To: ' . $email]);
+    $post_id = wp_insert_post([
+        'post_type'    => 'livre_resolucao',
+        'post_status'  => 'private',
+        'post_title'   => "Encomenda {$enc}: {$nome}",
+        'post_content' => "Nome: {$nome}\nE-mail: {$email}\nEncomenda: {$enc}\nProdutos: {$prod}\nRecebido em: {$when}",
+    ]);
+    if (!$post_id || is_wp_error($post_id)) {
+        wp_safe_redirect(add_query_arg('lr', 'erro', $back));
+        exit;
+    }
+
+    $to = arseco_company('email') ?: get_option('admin_email');
+    wp_mail($to, 'Livre resolução: encomenda ' . $enc, "Pedido recebido em {$when}\n\nNome: {$nome}\nE-mail: {$email}\nEncomenda: {$enc}\nProdutos: {$prod}\n", ['Reply-To: ' . $email]);
     wp_mail($email, 'Confirmação do seu pedido de livre resolução', "Recebemos o seu pedido em {$when} relativo à encomenda {$enc}.\nEste e-mail serve de confirmação da receção.\n\n" . get_bloginfo('name'));
 
-    wp_safe_redirect(add_query_arg('lr', $sent ? 'ok' : 'erro', $back));
+    wp_safe_redirect(add_query_arg('lr', 'ok', $back));
     exit;
 }
 add_action('admin_post_nopriv_arseco_livre_resolucao', 'arseco_handle_lr');
 add_action('admin_post_arseco_livre_resolucao', 'arseco_handle_lr');
+
+add_action('init', function () {
+    register_post_type('livre_resolucao', [
+        'labels'       => ['name' => 'Livre resolução', 'singular_name' => 'Pedido de livre resolução'],
+        'public'       => false,
+        'show_ui'      => true,
+        'menu_icon'    => 'dashicons-undo',
+        'supports'     => ['title', 'editor'],
+        'capabilities' => ['create_posts' => 'do_not_allow'],
+        'map_meta_cap' => true,
+    ]);
+});

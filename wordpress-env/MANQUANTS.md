@@ -21,5 +21,8 @@ Regra seguida: nada é inventado. Tudo o que falta fica aqui e aparece no site c
 - **Referência casa-bazar.com**: o site não estava acessível a partir deste ambiente. A estrutura legal foi inferida do `JOURNAL-COMPLET.md`, não copiada do site; comparar páginas uma a uma.
 
 ## Não verificado
-- **WooCommerce não pôde ser instalado** (wordpress.org e GitHub bloqueados). Catálogo, ficha de produto, carrinho, checkout e conta não foram testados. Executar `./setup-loja.sh` com acesso à rede e rever essas páginas.
+- **Testado** com WooCommerce 11.2.1 (zip fornecido): loja, categoria, ficha, carrinho, checkout e encomenda concluída em Chromium, com um meio de pagamento e uma zona de envio **temporários**, já removidos. Não testado: conta de cliente com sessão iniciada, e-mails do WooCommerce, cupões, variações, stock.
+- **E-mails do WooCommerce em inglês**: o dicionário do tema cobre o site, não os modelos de e-mail. Instalar o pacote oficial: `wp language plugin install woocommerce pt_PT` (precisa de rede).
+- **Nenhum meio de pagamento nem zona de envio configurados**: sem eles o checkout não conclui encomendas.
+- **Integridade do zip do WooCommerce**: usado tal como fornecido; não foi possível comparar com a soma de verificação oficial.
 - Lighthouse, acessibilidade com leitor de ecrã e teste em Safari/Firefox.

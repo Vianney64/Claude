@@ -68,3 +68,23 @@ add_filter('woocommerce_order_button_text', fn () => 'Encomenda com obrigação 
 add_filter('woocommerce_placeholder_img', fn ($html, $size, $dims) => arseco_art('pedra', 'art art--ph'), 10, 3);
 // Sem preço riscado: só seria legítimo com prova do preço mais baixo dos 30 dias anteriores (Omnibus).
 add_filter('woocommerce_format_sale_price', fn ($price, $regular, $sale) => $sale, 10, 3);
+
+// Sem fotografia, a ficha mostra a ilustração do tema (não o ícone cinzento do WooCommerce).
+add_filter('woocommerce_single_product_image_thumbnail_html', function ($html, $image_id) {
+    global $product;
+    if ($product instanceof WC_Product && !$product->get_image_id()) {
+        $tone = get_post_meta($product->get_id(), '_arseco_tone', true) ?: 'pedra';
+        return '<div class="woocommerce-product-gallery__image--placeholder">' . arseco_art($tone, 'art') . '</div>';
+    }
+    return $html;
+}, 10, 2);
+
+// Sem avaliações: não há compras verificadas que as sustentem.
+add_filter('woocommerce_product_tabs', function ($tabs) {
+    unset($tabs['reviews']);
+    if (isset($tabs['additional_information'])) {
+        $tabs['additional_information']['title'] = 'Ficha técnica';
+    }
+    return $tabs;
+});
+add_filter('woocommerce_product_get_rating_html', '__return_empty_string');

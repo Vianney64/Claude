@@ -31,6 +31,7 @@ Site : http://localhost:8080 — Admin : /wp-admin, identifiants dans `.env`
 
 - Tema: `wp-content/themes/arseco` (desenho inspirado na maquete fornecida; Inter Tight auto-alojada).
 - Idioma dos conteúdos: português de Portugal. Dados da empresa vazios (`[a preencher]`).
-- Capturas de ecrã em `captures/`.
+- Capturas de ecrã em `captures/`. Journal complet: `JOURNAL-COMPLET.md` (parte 2).
 - **Ler `MANQUANTS.md`**: catálogo de exemplo, WooCommerce não testado, texto jurídico por rever.
+- WooCommerce: colocar o zip em `vendor/woocommerce.zip` (ignorado pelo git) ou deixar o script descarregá-lo.
 - Sem WooCommerce, a página inicial mostra o catálogo de exemplo só em ambiente local, e os links de produto apontam para `/loja/`, que não existe sem o plugin.

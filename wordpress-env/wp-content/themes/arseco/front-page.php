@@ -72,7 +72,7 @@ $faq = [
 </section>
 
 <?php if ($featured) : ?>
-<section class="products" aria-labelledby="prod-title">
+<section class="catalogo" aria-labelledby="prod-title">
   <p class="eyebrow">/Produtos</p>
   <h2 id="prod-title" class="display display--light">Os nossos<br>desumidificadores</h2>
   <div class="spec-stage">

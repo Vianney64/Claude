@@ -6,7 +6,7 @@ defined('ABSPATH') || exit;
 
 define('ARSECO_VER', '1.0.0');
 
-foreach (['company', 'art', 'demo', 'pages', 'shortcodes', 'woo'] as $module) {
+foreach (['company', 'art', 'demo', 'pages', 'shortcodes', 'woo', 'i18n'] as $module) {
     require_once get_theme_file_path("inc/{$module}.php");
 }
 
