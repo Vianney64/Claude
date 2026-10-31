@@ -38,8 +38,7 @@ services:
         define('DISALLOW_FILE_EDIT', true);
     volumes:
       - wp_data:/var/www/html
-      - ./wp-content/themes:/var/www/html/wp-content/themes/custom
-      - ./wp-content/plugins:/var/www/html/wp-content/plugins/custom
+      - ./wp-content/themes/arseco:/var/www/html/wp-content/themes/arseco
 
   wpcli:
     image: wordpress:cli-php8.3
@@ -54,6 +53,7 @@ services:
       WORDPRESS_DB_PASSWORD: ${WP_DB_PASSWORD:-wp_dev_password}
     volumes:
       - wp_data:/var/www/html
+      - ./wp-content/themes/arseco:/var/www/html/wp-content/themes/arseco
     working_dir: /var/www/html
 
 volumes:
