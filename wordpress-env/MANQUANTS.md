@@ -26,3 +26,8 @@ Regra seguida: nada é inventado. Tudo o que falta fica aqui e aparece no site c
 - **Nenhum meio de pagamento nem zona de envio configurados**: sem eles o checkout não conclui encomendas.
 - **Integridade do zip do WooCommerce**: usado tal como fornecido; não foi possível comparar com a soma de verificação oficial.
 - Lighthouse, acessibilidade com leitor de ecrã e teste em Safari/Firefox.
+
+## Archive .wpress
+- Archive générée par `tools/build-wpress.py`, **non importée avec All-in-One WP Migration** (indisponible dans l'environnement). Vérifiée par un lecteur écrit à part (structure, fin de fichier, thème identique octet pour octet) et par l'import de `database.sql` dans un MySQL 8.0 vierge.
+- Écrase la base de destination. Mot de passe `admin` aléatoire, à changer. Adresse `admin@example.test` à remplacer.
+- Catalogue encore factice: ne pas importer en production tel quel.

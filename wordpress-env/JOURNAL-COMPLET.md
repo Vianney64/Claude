@@ -604,3 +604,14 @@ Détail dans `MANQUANTS.md`.
 
 - Code, captures et ce journal : dépôt `vianney64/claude`, branche `claude/awesome-edison-u628oq`, dossier `wordpress-env/` (captures dans `wordpress-env/captures/`).
 - Le site tourne dans le conteneur de cette session (`http://localhost:8080`) : **inaccessible depuis votre machine**, et il disparaît avec la session. Pour le voir chez vous : `git clone`, mettre l'archive WooCommerce dans `wordpress-env/vendor/woocommerce.zip`, puis `./setup-loja.sh` (Docker requis).
+
+## 27. Archive .wpress téléchargeable
+
+Demande : fournir le site en fichier `.wpress`.
+
+- All-in-One WP Migration n'est pas téléchargeable ici. Générateur écrit : `tools/build-wpress.py` (format : en-têtes de 4377 octets, fin par un bloc nul).
+- Contenu : `package.json`, `database.sql` (préfixe remplacé par `SERVMASK_PREFIX_`, collations MariaDB 11 neutralisées, ligne « sandbox mode » retirée), thème `arseco`, WooCommerce 11.2.1 (copié depuis le conteneur), médiathèque. Exclus : journaux WooCommerce, caches, `.env`. Résultat : `ar-seco-2026-10-31.wpress`, 82,1 Mo, 5519 fichiers.
+- Mot de passe du compte `admin` remplacé par une valeur aléatoire avant export (le mot de passe de développement n'est pas dans l'archive).
+- Vérifications : lecteur indépendant (EOF exact, 52 tables, 0 `wp_` résiduel, thème identique octet pour octet) ; import de la base dans MySQL 8.0.46 vierge sans erreur, 22 pages et produits publiés.
+- **Non vérifié** : import avec le vrai plugin ; format exact de `package.json` attendu par sa version. Procédure de secours dans le README.
+- Erreurs : le démon Docker s'était arrêté (relancé, volumes intacts) ; le lecteur `wpress-extract` (npm) a été bloqué par le système de permissions, remplacé par un lecteur maison.
